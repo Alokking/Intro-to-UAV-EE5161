@@ -4,7 +4,7 @@ youtube link: https://www.youtube.com/watch?v=IPDAhY02z0c
 
 
 Assignment_3 : WiFi UGV Operation
-youtube link: https://www.youtube.com/watch?v=ahAwbykPAAE
+youtube link: https://www.youtube.com/watch?v=CMVdIYMG2lU
 
 
 Assignment_4 : Flashing the ESP32 OTA 
