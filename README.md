@@ -3,6 +3,9 @@ Assignment_1 : UGV Kit Testing
 youtube link: https://www.youtube.com/watch?v=IPDAhY02z0c
 
 
+Assignment_2 : UGV Triangle tracing Path
+youtube link: https://www.youtube.com/watch?v=gkZvWh7MSLI
+
 Assignment_3 : WiFi UGV Operation
 youtube link: https://www.youtube.com/watch?v=CMVdIYMG2lU
 
