@@ -12,3 +12,7 @@ youtube link: https://www.youtube.com/watch?v=CMVdIYMG2lU
 
 Assignment_4 : Flashing the ESP32 OTA 
 youtube link: https://www.youtube.com/watch?v=Be5IYQ6Kwo8
+
+
+Assignment_6 :  UGV Web-App-Controller
+youtube link: https://www.youtube.com/watch?v=10ZAhELxNq4
